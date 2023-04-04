@@ -81,7 +81,7 @@ contact:
 profile:
   show: true
   order: 1
-  title: Profile
+  title: 综述
   description: |
 
     拥有多年的iOS和Flutter开发经验,曾成功开发和上架多款不同类型的手机应用程序.对前端技术Vue和React也有所涉猎.对于新技术有浓厚的兴趣,并热衷于学习和探索新的技术趋势和最佳实践.追求不断打磨产品, 将视觉设计与技术相结合, 为用户提供优秀的使用体验. 在移动应用开发领域不断发展和创新.
