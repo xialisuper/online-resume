@@ -3,7 +3,7 @@ basic:
   title: iOS & Flutter 开发工程师          # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    path: /assets/images/user.png # avatar file path
 
 contact:
   # meta
@@ -101,12 +101,14 @@ education:
       major: 自动化专业
       degree: 学士
       description: |
-
+        + C语言, 数据机构, 计算机软件基础, 微机原理, c++程序设计, 单片机理论, 电子线路知识, 电力电子知识, 自动控制理论以及飞行控制相关知识. 
+        + 在校学习期间,刻苦努力,专业基础扎实,成绩优秀.
+        + 担任天文社社长,积极参加学校活动和社会活动,与同学和老师关系融洽.
 
 
 experience:
   show: true
-  order: 3
+  order: 4
   title: 工作经验
   description: |
     
@@ -168,7 +170,7 @@ experience:
 
 project:
   show: true
-  order: 4
+  order: 3
   title: 项目经验
   description: |
     
