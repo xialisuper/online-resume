@@ -86,9 +86,27 @@ profile:
 
     拥有多年的iOS和Flutter开发经验,曾成功开发和上架多款不同类型的手机应用程序.对前端技术Vue和React也有所涉猎.对于新技术有浓厚的兴趣,并热衷于学习和探索新的技术趋势和最佳实践.追求不断打磨产品, 将视觉设计与技术相结合, 为用户提供优秀的使用体验. 在移动应用开发领域不断发展和创新.
 
-experience:
+education:
   show: true
   order: 2
+  title: 教育经历
+  description: |
+
+
+
+  items:
+    - institution: 南京航空航天大学
+      link: '#'
+      date: 2007 - 2012
+      major: 自动化专业
+      degree: 学士
+      description: |
+
+
+
+experience:
+  show: true
+  order: 3
   title: 工作经验
   description: |
     
@@ -150,7 +168,7 @@ experience:
 
 project:
   show: true
-  order: 3
+  order: 4
   title: 项目经验
   description: |
     
@@ -222,7 +240,7 @@ project:
 
 skill:
   show: true
-  order: 4
+  order: 5
   title: 技能
   description: |
     + 熟练掌握iOS原生开发流程.熟悉常见第三方依赖使用方法.
@@ -270,34 +288,7 @@ skill:
   #       - Skill H
   #       - Skill I
 
-education:
-  show: true
-  order: 5
-  title: 教育经历
-  description: |
 
-
-
-  items:
-    - institution: 南京航空航天大学
-      link: '#'
-      date: 2007 - 2012
-      major: 自动化专业
-      degree: 学士
-      description: |
-
-
-
-
-    # - institution: Example University
-    #   link:
-    #   date: 2011 - 2015
-    #   major: Computer Science
-    #   degree: Bachelor
-    #   description: |
-    #     Additional information for this institution.
-    #     + First
-    #     + Second
 
 certificate:
   show: false
