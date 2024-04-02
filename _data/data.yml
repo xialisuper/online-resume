@@ -105,7 +105,7 @@ education:
 
 experience:
   show: true
-  order: 4
+  order: 5
   title: 工作经验
   description: |
 
@@ -215,7 +215,7 @@ project:
 
 skill:
   show: true
-  order: 5
+  order: 4
   title: 技术特点
   description: |
     + 熟悉 Flutter 跨平台开发技术，并具备丰富的混合开发经验。 能够熟练运用 GetX、Provider、BLoC 等状态管理方案，并遵循 Clean Architecture 架构原则，构建清晰、可维护的应用架构。
