@@ -138,18 +138,6 @@ experience:
       location: 厦门
       description:
 
-    - company: 众信旅游
-      date:
-      role: iOS 开发工程师
-      location: 厦门
-      description:
-
-    - company: 深圳荔园合联信息技术有限公司
-      date:
-      role: iOS 开发工程师
-      location: 深圳
-      description:
-
 project:
   show: true
   order: 3
@@ -204,16 +192,6 @@ project:
         + 高效调试：使用 iConsole 进行实时真机调试打印，方便了开发过程中的问题排查。
         + 响应式编程：使用 ReactiveCocoa 框架实现响应式编程，提高了代码可读性和可维护性。
 
-    - name: TISP众信旅游管理系统客户端
-      tags: iOS Native
-      description: |
-
-
-        + 安全登录：针对不同网络条件、国内外时差等进行了严谨的测试，并实现了网络时间同步和设备编码验证，确保了登录的安全性。
-        + 离线支持：在飞行模式下，通过读取时间差缓存，提供尽可能准确的登录验证码，提升了用户体验。
-        + 企业级证书：注册了企业级软件的相关证书，确保了应用的安全性。
-        + 网络测试：使用 Charles 进行网络测试，确保软件能够在不同网络状态下正常运行。
-
 skill:
   show: true
   order: 4
@@ -224,7 +202,7 @@ skill:
     + 多年的软件开发经验，熟悉常见的软件架构和设计模式.
     + 注重代码质量和可维护性，能够编写清晰、可读、可测试的代码。
     + 具备良好的团队协作能力，能够快速融入团队并高效完成任务。
-    + 英文水平良好, 阅读英文文档无障碍. 
+    + 英文水平良好, 阅读英文文档无障碍.
 
   # items:
   #   - name: Skill A
