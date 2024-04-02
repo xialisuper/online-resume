@@ -1,82 +1,82 @@
 basic:
-  name: 夏立群                     # name
-  title: iOS & Flutter 开发工程师          # job title
+  name: 夏立群 # name
+  title: iOS & Flutter 开发工程师 # job title
   avatar:
-    show: true                       # show or hide avatar
+    show: false # show or hide avatar
     path: /assets/images/user.png # avatar file path
 
 contact:
   # meta
-  location: 成都, 中国 # location
-  email: xialisuper@outlook.com    # email address
+  location: 山东, 中国 # location
+  email: xialisuper@outlook.com # email address
   phone: +86-133-6133-6359 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website:      # site URL without schema, like example.com, will automatically prepand "https://"
+  website: # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
-  nationality:             # nationality
-  visa:                    # passport visa
-  drivinglicense:          # driving licence
+  gender: # gender or pronoun
+  birthday: # birthday
+  nationality: # nationality
+  visa: # passport visa
+  drivinglicense: # driving licence
 
   # contact
-  wechat:                  # username
-  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
-  telegram:                # username          | https://t.me/username
-  messenger:               # username          | https://m.me/username
-  line:                    # lineid            | https://line.me/R/ti/p/@lineid
-  viber:                   # username          | https://vb.me/username
-  threema:                 # userid            | https://threema.id/userid
+  wechat: # username
+  whatsapp: # 8611122223333     | https://wa.me/8611122223333
+  telegram: # username          | https://t.me/username
+  messenger: # username          | https://m.me/username
+  line: # lineid            | https://line.me/R/ti/p/@lineid
+  viber: # username          | https://vb.me/username
+  threema: # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
-  gitlab:                  # username          | https://gitlab.com/username
-  bitbucket:               # username          | https://bitbucket.com/username
-  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
-  leetcode:                # username          | https://leetcode.com/username
-  codeforces:              # username          | https://codeforces.com/profile/username
-  codewars:                # username          | https://www.codewars.com/users/username
-  codepen:                 # username          | https://codepen.io/username
-  tryhackme:               # username          | https://tryhackme.com/p/username
+  github: # username          | https://github.com/username
+  gitlab: # username          | https://gitlab.com/username
+  bitbucket: # username          | https://bitbucket.com/username
+  stackoverflow: # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode: # username          | https://leetcode.com/username
+  codeforces: # username          | https://codeforces.com/profile/username
+  codewars: # username          | https://www.codewars.com/users/username
+  codepen: # username          | https://codepen.io/username
+  tryhackme: # username          | https://tryhackme.com/p/username
 
   # academic
-  googlescholar:           # username          | https://scholar.google.com/citations?user=username
-  researchgate:            # username          | https://www.researchgate.net/profile/username
-  kaggle:                  # username          | https://www.kaggle.com/username
-  orcid:                   # id                | https://orcid.org/id
-  figshare:                # name/id           | https://figshare.com/authors/name/id
+  googlescholar: # username          | https://scholar.google.com/citations?user=username
+  researchgate: # username          | https://www.researchgate.net/profile/username
+  kaggle: # username          | https://www.kaggle.com/username
+  orcid: # id                | https://orcid.org/id
+  figshare: # name/id           | https://figshare.com/authors/name/id
 
   # writer
-  devto:                   # username          | https://dev.to/username
-  medium:                  # username          | https://medium.com/@username
-  wordpress:               # username          | https://username.wordpress.com
-  blogger:                 # username          | https://username.blogspot.com
-  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+  devto: # username          | https://dev.to/username
+  medium: # username          | https://medium.com/@username
+  wordpress: # username          | https://username.wordpress.com
+  blogger: # username          | https://username.blogspot.com
+  wikipedia: # username          | https://www.wikipedia.org/wiki/User:username
 
   # designer
-  figma:                   # username          | https://www.figma.com/@username
-  behance:                 # username          | https://www.behance.net/username
-  dribble:                 # username          | https://dribbble.com/username
-  artstation:              # username          | https://www.artstation.com/username
+  figma: # username          | https://www.figma.com/@username
+  behance: # username          | https://www.behance.net/username
+  dribble: # username          | https://dribbble.com/username
+  artstation: # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
-  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
-  xing:                    # username          | https://www.xing.com/profile/username
-  fiverr:                  # username          | https://www.fiverr.com/username
-  freelancer:              # username          | https://www.freelancer.com/u/username
+  linkedin: # username          | https://linkedin.com/in/username
+  indeed: # resumeid          | https://my.indeed.com/p/resumeid
+  xing: # username          | https://www.xing.com/profile/username
+  fiverr: # username          | https://www.fiverr.com/username
+  freelancer: # username          | https://www.freelancer.com/u/username
 
   # social media
-  twitter:                 # username          | https://twitter.com/username
-  mastodon:                # username@server
-  instagram:               # username          | https://instagram.com/username
-  unsplash:                # username          | https://unsplash.com/@username
-  _500px:                  # username          | https://500px.com/p/username
-  youtube:                 # username          | https://www.youtube.com/@username
-  tiktok:                  # username          | https://www.tiktok.com/@username
-  quora:                   # username          | https://www.quora.com/profile/username
-  zhihu:                   # username          | https://www.zhihu.com/people/username
-  goodreads:               # username          | https://www.goodreads.com/user/show/username
-  strava:                  # useid             | https://www.strava.com/athletes/userid
+  twitter: # username          | https://twitter.com/username
+  mastodon: # username@server
+  instagram: # username          | https://instagram.com/username
+  unsplash: # username          | https://unsplash.com/@username
+  _500px: # username          | https://500px.com/p/username
+  youtube: # username          | https://www.youtube.com/@username
+  tiktok: # username          | https://www.tiktok.com/@username
+  quora: # username          | https://www.quora.com/profile/username
+  zhihu: # username          | https://www.zhihu.com/people/username
+  goodreads: # username          | https://www.goodreads.com/user/show/username
+  strava: # useid             | https://www.strava.com/athletes/userid
 
 profile:
   show: true
@@ -84,7 +84,7 @@ profile:
   title: 综述
   description: |
 
-    拥有多年的iOS和Flutter开发经验,曾成功开发和上架多款不同类型的手机应用程序.对前端技术Vue和React也有所涉猎.对于新技术有浓厚的兴趣,并热衷于学习和探索新的技术趋势和最佳实践.追求不断打磨产品, 将视觉设计与技术相结合, 为用户提供优秀的使用体验. 在移动应用开发领域不断发展和创新.
+    拥有多年的iOS和Flutter开发经验,成功开发并上架 10+ 款 不同类型的手机应用，涵盖电商、社交、视频播放等领域。对前端技术 Vue 和 React 有一定了解，热衷于学习新技术和探索最佳实践，致力于打造优质的用户体验。
 
 education:
   show: true
@@ -92,166 +92,136 @@ education:
   title: 教育经历
   description: |
 
-
-
   items:
     - institution: 南京航空航天大学
-      link: '#'
+      link: "#"
       date: 2007 - 2012
       major: 自动化专业
       degree: 学士
       description: |
-        + C语言, 数据机构, 计算机软件基础, 微机原理, c++程序设计, 单片机理论, 电子线路知识, 电力电子知识, 自动控制理论以及飞行控制相关知识. 
+        + C语言, 数据机构, 计算机软件基础, 微机原理, c++程序设计, 单片机理论, 数据结构与算法, 计算机网络, 电力电子知识, 自动控制理论以及飞行控制相关知识. 
         + 在校学习期间,刻苦努力,专业基础扎实,成绩优秀.
         + 担任天文社社长,积极参加学校活动和社会活动,与同学和老师关系融洽.
-
 
 experience:
   show: true
   order: 4
   title: 工作经验
   description: |
-    
 
   items:
     - company: 厦门链石科技
-      link: 
-      tags: 
-      date: 2022.07 - 2023.01
-      role: iOS 开发工程师
+      link:
+      tags:
+      date:
+      role: 移动端开发工程师
       location: 厦门
-      description: |
-        负责公司两款iOS软件的维护和迭代工作.
+      description:
 
     - company: 厦门奇点视界科技有限公司
       link:
-      tags: 
-      date: 2020.10 -2021.07
+      tags:
+      date:
       role: 技术开发组负责人
       location: 厦门
-      description: |
-        主导开发素社短剧App,
+      description:
 
     - company: 厦门IAM集团
-      date: 2018 - 2020
+      date:
       role: iOS 开发工程师
       location: 厦门
-      description: |
-        独立负责IAM集团iOS客户端开发与维护以及产品迭代.
-        
-    
+      description:
+
     - company: 深圳欧兔科技有限公司(小白单车)厦门分公司
-      date: 2017 - 2018
+      date:
       role: iOS 开发工程师
       location: 厦门
-      description: |
-        参与小白单车海外及国内版本iOS客户端开发与维护以及产品迭代.
+      description:
 
     - company: 众信旅游
-      date: 2016 - 2017
+      date:
       role: iOS 开发工程师
       location: 厦门
-      description: |
-        负责众信旅游员工内部使用iOS客户端的开发与维护.
-        
+      description:
+
     - company: 深圳荔园合联信息技术有限公司
-      date: 2014 - 2016
+      date:
       role: iOS 开发工程师
       location: 深圳
-      description: |
-        负责iOS客户端的开发,维护和迭代.
-
-    - company: 上海德迈科电气集团
-      date: 2012 - 2014
-      role: 自动化程序开发工程师
-      location: 上海
-      description: |
-        参与沈阳米其林轮胎“龙凤”项目,担任轮胎生产线的程序设计和编写工作,同时还负责后期数据分析的工作.我还协助自动化设备的安装和调试,并与土建和机械外包公司进行沟通和协调,确保工作进程按时按质完成,保证工程的质量和进度.
+      description:
 
 project:
   show: true
   order: 3
   title: 项目经验
-  description: |
-    
+  description:
 
   items:
     - name: 英雄小屋
-      link: 
-      tags:
-      date: 2022-至今
+      link:
+      tags: Flutter
+      date:
       description: |
-        使用Flutter开发一款运行于iOS和android双端的应用程序. 配套软件运行于PC端, 录制以及上传视频到阿里云服务器.
-        + 从零开始搭建整个Flutter项目, 做到了UI,use case, repository分离, 项目架构更合理, 降低耦合, 便于后期维护和扩展.
-        + 完成登录,网盘文件播放与预览,上传,下载.社交广场,个人中心,设置等模块的开发.
-        + 使用GetX进行状态管理,路由搭建, Hive用户数据存储, Dio网络请求封装与错误拦截, Share_Preferences配置主题,等主流第三方库.
-        + 接入Sentry进行错误监控并日志记录,用户统计.
-        + iOS,Android双端,内购及付款功能.
-
+        使用Flutter开发一款运行于iOS和android双端的应用程序. 集成了电商平台和个人网盘功能。用户可以浏览商品、下单购买、管理个人网盘文件、发布内容到社交平台等。
+        + 跨平台开发：使用 Flutter 技术栈，以 GetX 作为状态管理和路由框架，实现了 UI、业务逻辑和数据的分离，并遵循 Clean Architecture 架构原则，构建了清晰的状态管理和数据流控制体系。
+        + 高性能视频播放：利用 Flutter 原生插件，并结合缓存策略、倍速播放、清晰度切换等功能，显著提升了视频播放的流畅度和用户体验。
+        + 稳定高效的文件传输：使用 Dio 网络库，实现了断点续传、进度显示、分片上传等功能，确保文件上传下载的稳定性和效率。
 
     - name: 素社短剧
       link:
-      tags: 
-      date: 
+      tags: Flutter & Native
+      date:
       description: |
         该应用是一款集GalGame、真人互动短剧、社交圈子、付费观看剧集、演员打赏、粉丝团等多个功能的综合型App.
-        + 对项目进行了重构,将原始的MVC或MVVM模式转化为面向接口的架构,将UI层、逻辑层、内部数据层、外部数据层解耦,提高了代码的可扩展性和可维护性.
-        + 提取并封装了项目的基础工具类和基础UI控件,作为pod模块依赖,方便多人开发,同时加快了开发进程.
-        + 使用源生播放器进行封装后播放视频互动短剧,包括播放、暂停、进度条控制、展示人物立绘、字幕动画等,观看体验良好.
+
+        + 混合开发：结合 Flutter 和原生开发技术，实现了跨平台 UI 统一和功能互补。
+        + 视频互动：使用原生播放器封装，实现了视频播放、暂停、进度条控制、人物立绘、字幕动画等功能，打造了良好的观看体验。
         + 使用Swift在原OC项目上构建了社交模块,实现了个人空间、发布动态、评论、上传并发布图片以及视频功能.
+        + 直播功能：使用 Flutter 开发了直播功能，并嵌入原生项目，实现了安卓 iOS 双端统一 UI，支持直播推拉流、送礼物、弹幕聊天等功能。
         + 使用Flutter开发了直播功能,并嵌入源生项目,实现了安卓iOS双端统一UI,包括直播推拉流、送礼物、弹幕聊天等功能.
-        + 接入头条SDK,实现了项目埋点、用户追送等功能,对项目的数据统计和分析提供了便利.
-        + 支持聊天,订阅推送,支持Dark Mode模式, 为用户提供了更加个性化和舒适的使用体验.
-        + 项目上线后,用户量逐渐增长,用户活跃度也在不断提升,用户反馈良好.
+        + 数据统计：接入头条 SDK，实现了项目埋点、用户追踪等功能，为项目的数据统计和分析提供了便利。
 
     - name: 美拉电商
+      tags: Flutter & Native
       description: |
         这是一款使用Flutter开发的电商App.
-        + 使用Flutter作为开发语言，实现跨平台一体式开发. 
-        + 使用Flutter Bloc状态管理模式，分离UI与业务逻辑，提高代码可维护性.
-        + 使用自定义的Sliver Scroll Widget，实现复杂滚动列表结构，解决多个子列表滚动冲突问题.
-
+        + 跨平台开发：使用 Flutter 实现跨平台一体式开发，提高了开发效率和代码一致性。
+        + 复杂列表滚动：使用自定义 Sliver Scroll Widget，实现了复杂滚动列表结构，并解决了多个子列表滚动冲突问题，提升了用户体验。
+        + 状态管理：使用 Flutter Bloc 状态管理模式，分离 UI 与业务逻辑，提高代码可维护性和可测试性。
 
     - name: 心购
       description: |
-        一个智能家居物联iOS客户端,该项目实现了智能设备的控制和公司产品的电商销售功能.
-        + 采用了Masonry纯代码布局页面,实现了自定义UI控件和动画效果
-        + 使用了阿里云推送来监控和设置空气净化装置, 支持远程和本地推送.
-        + Swift和Objective-C混编技术
-        
+        + 自定义 UI：采用 Masonry 纯代码布局页面，实现了自定义 UI 控件和动画效果，提升了应用的个性化和用户体验。
+        + 智能设备控制：使用阿里云推送来监控和设置空气净化装置，支持远程和本地推送，实现了智能家居物联功能。
+        + 混合开发：结合 Swift 和 Objective-C 语言进行开发，充分利用了不同语言的优势。
+
     - name: Bicycle小白单车
+      tags: iOS Native
       description: |
-        这是一款解锁共享单车的移动应用程序.
-        + 第一版只能通过4G网络开锁，第二版加入了蓝牙双通道解锁功能, 
-        + 该应用程序还支持在新加坡、日本和警务版本中使用。使用高德和Google地图显示车辆站点位置，绘制行车路线和导航轨迹等。支持多语言。
-        + 为满足项目需求，对代码进行了大量重构，将应用程序拆分为更独立的功能模块，包括4G模块、蓝牙模块、地图模块和支付模块等，可以通过接口替换和组装这些模块。应对多国家多版本迭代的需求。
-        + 使用小米推送解析数据.
-        + 使用蓝牙与车锁交互.
-        + 接入了支付宝、微信和PayPal等第三方支付方式.
-        + 使用fastlane进行自动化打包上传和TestFlight测试.
-        + 使用iConsole进行实时真机调试打印.
-        + 使用ReactiveCocoa框架实现响应式编程.
+        + 多版本迭代：支持 4G 和蓝牙双通道解锁，并针对新加坡、日本和警务版本进行了定制开发，展现了良好的代码架构和可扩展性。
+        + 模块化设计：将应用程序拆分为独立的功能模块，如 4G 模块、蓝牙模块、地图模块和支付模块等，提高了代码可维护性和可复用性。
+        + 多语言支持：支持多语言显示，满足了不同国家用户的需求。
+        + 自动化流程：使用 fastlane 进行自动化打包上传和 TestFlight 测试，提高了开发效率.
+        + 高效调试：使用 iConsole 进行实时真机调试打印，方便了开发过程中的问题排查。
+        + 响应式编程：使用 ReactiveCocoa 框架实现响应式编程，提高了代码可读性和可维护性。
 
     - name: TISP众信旅游管理系统客户端
       description: |
         设计开发了一款公司内部旅游管理系统的手机端软件，旨在方便员工在外出销售时也能及时登录公司网站。该产品已为2000余名员工内部使用。
-        + 作为安全登录的入口，针对不同网络条件、国内外时差等进行了严谨的测试，并且保证有网络的情况下从服务器获取时间，验证设备编码。在飞行模式下，读取时间差缓存，尽量提供更准确的登录验证码。
-        + 具体技术方面，注册了企业级软件的相关证书，包括推送证书、develop证书和product证书。针对不同网络状态下的内网、外网、飞行模式和网络缓慢情况，使用charles进行测试，以确保软件能够有相应的应对措施，为用户提供流畅的页面展示。
-
-
+        + 安全登录：针对不同网络条件、国内外时差等进行了严谨的测试，并实现了网络时间同步和设备编码验证，确保了登录的安全性。
+        + 离线支持：在飞行模式下，通过读取时间差缓存，提供尽可能准确的登录验证码，提升了用户体验。
+        + 企业级证书：注册了企业级软件的相关证书，确保了应用的安全性。
+        + 网络测试：使用 Charles 进行网络测试，确保软件能够在不同网络状态下正常运行。
 
 skill:
   show: true
   order: 5
-  title: 技能
+  title: 技术特点
   description: |
-    + 熟练掌握iOS原生开发流程.熟悉常见第三方依赖使用方法.
-    + 熟悉代码混淆,打包,审核,上架流程.
-    + 熟悉自动化迭代流程,包括自动化打包,自动化上传,自动化测试等.
-    + 熟悉iOS开发中常见的设计模式,如MVC,MVVM,单例,工厂等.
-    + 熟悉Flutter应用开发流程.熟悉Flutter favorite知名插件的使用方法.
-    + 对软件设计架构有一定的理解,能够根据项目需求进行合理的架构设计.
-    
+    + 熟悉 Flutter 跨平台开发技术，并具备丰富的混合开发经验。 能够熟练运用 GetX、Provider、BLoC 等状态管理方案，并遵循 Clean Architecture 架构原则，构建清晰、可维护的应用架构。
+    + 对前端技术非常感兴趣，并一直在关注 React 和 Vue 以及 Flutter 的发展趋势。我利用业余时间学习了相关知识并已经能够使用它们开发一些简单的应用, 积累了一定的实践经验.
+    + 多年的软件开发经验，熟悉常见的软件架构和设计模式.
+    + 注重代码质量和可维护性，能够编写清晰、可读、可测试的代码。
 
   # items:
   #   - name: Skill A
@@ -290,8 +260,6 @@ skill:
   #       - Skill H
   #       - Skill I
 
-
-
 certificate:
   show: false
   order: 6
@@ -309,7 +277,7 @@ certificate:
     - name: Example Certificate One
       issuer: by Example
       date: 2020
-      link: '#'
+      link: "#"
       description: |
         It's my Example Certificate One by Example.
     - name: Example Certificate Two
@@ -336,7 +304,7 @@ publication:
     - title: Example Publication in Action
       authors: Foo Bar
       conference: Foobar, 2019
-      link: '#'
+      link: "#"
     - title: The Art of Example Publication
       authors: Foo Bar
       conference: Foobar, 2019
@@ -357,7 +325,7 @@ award:
     - name: Example Awared One
       awarder: by Example
       date: 2022
-      link: '#'
+      link: "#"
       description: |
         It's my Example Awared One by Example.
     - name: Example Awared Two
@@ -430,7 +398,7 @@ interest:
 
   items:
     - item: Reading
-      link: '#'
+      link: "#"
     - item: Cooking
       link:
 
@@ -460,7 +428,7 @@ reference:
 
   items:
     - name: Foo One
-      link: '#'
+      link: "#"
       title: Backend Developer
       institution: Second Company
       address: 1234 Example St, XXX, XY 11111
